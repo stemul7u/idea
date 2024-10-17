@@ -55,7 +55,7 @@
     "@types/node": "20.16.11",
     "@types/sass": "1.45.0",
     "react-scripts": "5.0.1",
-    "sass": "1.79.5",
+    "sass": "1.80.2",
     "source-map-explorer": "2.5.3",
     "stream-http": "3.2.0",
     "typescript": "5.6.3",
