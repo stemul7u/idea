@@ -1185,9 +1185,9 @@
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
 "@cloudscape-design/collection-hooks@^1.0.0":
-  version "1.0.54"
-  resolved "https://registry.yarnpkg.com/@cloudscape-design/collection-hooks/-/collection-hooks-1.0.54.tgz#615f5eda5017812bb8bd481f2f8756d195dc8fdb"
-  integrity sha512-cp2uobsYkVgjneXhD2kD+VTRibtOVzixKx9W2s2B7dWdP1rMSB/3OFdnKWM53KHdZkjdXABahZtJwnXVs9XHXQ==
+  version "1.0.55"
+  resolved "https://registry.yarnpkg.com/@cloudscape-design/collection-hooks/-/collection-hooks-1.0.55.tgz#de0aaacaada8592644af29ad9d05ecc58d94fd47"
+  integrity sha512-VsXAqYGfdXTEu0McbzSK6b8j84i2UmMqWUgwXRW16Mi9b5ydQvoiJuG/HGGZxPJWAd5NxOg2BdJj72XHFTwF2A==
 
 "@cloudscape-design/component-toolkit@^1.0.0-beta":
   version "1.0.0-beta.75"
@@ -1198,9 +1198,9 @@
     tslib "^2.3.1"
 
 "@cloudscape-design/components@^3.0.82":
-  version "3.0.786"
-  resolved "https://registry.yarnpkg.com/@cloudscape-design/components/-/components-3.0.786.tgz#1469cb487b3d5c3144221f9b17cc453478d7c8aa"
-  integrity sha512-5u5/oO8OrCzBuL/J2m9ET7CtQmq9cxpPNJFSnL9tTanW/DD2KLWVlslB+jEy+yZ6WO82hrkuuSFwnacO+5Wy1A==
+  version "3.0.793"
+  resolved "https://registry.yarnpkg.com/@cloudscape-design/components/-/components-3.0.793.tgz#23144ff869e9b7dfbc92417c20263763e3c2216c"
+  integrity sha512-6kwABcXsutjF/vEc62RRCesNi4qxkgXRjEOI4sDcVbk8aIi7N4GLBu/QucCqm+TOyBHzxQRgfyd5n2SqX1dv+g==
   dependencies:
     "@cloudscape-design/collection-hooks" "^1.0.0"
     "@cloudscape-design/component-toolkit" "^1.0.0-beta"
@@ -11470,9 +11470,9 @@ tslib@^1.8.1:
   integrity sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==
 
 tslib@^2.0.0, tslib@^2.3.1, tslib@^2.4.0, tslib@^2.7.0:
-  version "2.7.0"
-  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.7.0.tgz#d9b40c5c40ab59e8738f297df3087bf1a2690c01"
-  integrity sha512-gLXCKdN1/j47AiHiOkJN69hJmcbGTHI0ImLmbYLHykhgeN0jVGola9yVjFgzCUklsZQMW55o+dW7IXv3RCXDzA==
+  version "2.8.0"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.8.0.tgz#d124c86c3c05a40a91e6fdea4021bd31d377971b"
+  integrity sha512-jWVzBLplnCmoaTr13V9dYbiQ99wvZRd0vNWaDRg+aVYRcjDF3nDksxFDE/+fkXnKhpnUUkmx5pK/v8mCtLVqZA==
 
 tslib@^2.0.3, tslib@^2.1.0:
   version "2.6.2"
