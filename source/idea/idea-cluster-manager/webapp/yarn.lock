@@ -1223,9 +1223,9 @@
     weekstart "^1.1.0"
 
 "@cloudscape-design/design-tokens@^3.0.4":
-  version "3.0.45"
-  resolved "https://registry.yarnpkg.com/@cloudscape-design/design-tokens/-/design-tokens-3.0.45.tgz#2f50d297a0ff609875ab23d67b1372411472db22"
-  integrity sha512-dKr6b/9NCB575wF6mr+alABp2AGhRMPJ9a43gsvpmSr4L92xvog3G6lomf8NmaQjAZjwpT2pmnavkMW32BPJfg==
+  version "3.0.46"
+  resolved "https://registry.yarnpkg.com/@cloudscape-design/design-tokens/-/design-tokens-3.0.46.tgz#45cda057e7234a4e4fe0e86583907fd2a67d8f55"
+  integrity sha512-ZkTkB18s/6cFjIhdHcfAgUwz9uCPgARGKV6+uvIf6vFLUr8NPati6Wy4tAckVfuf5hppefATUIQItGr2NyhvNA==
 
 "@cloudscape-design/global-styles@^1.0.1":
   version "1.0.32"
