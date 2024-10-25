@@ -1139,9 +1139,9 @@
     regenerator-runtime "^0.14.0"
 
 "@babel/runtime@^7.21.0", "@babel/runtime@^7.5.5", "@babel/runtime@^7.8.0", "@babel/runtime@^7.8.7":
-  version "7.25.7"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.25.7.tgz#7ffb53c37a8f247c8c4d335e89cdf16a2e0d0fb6"
-  integrity sha512-FjoyLe754PMiYsFaN5C94ttGiOmBNYTf6pLr4xXHAT5uctHb092PBszndLDR5XA/jghQvn4n7JMHl7dmTgbm9w==
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.25.9.tgz#65884fd6dc255a775402cc1d9811082918f4bf00"
+  integrity sha512-4zpTHZ9Cm6L9L+uIqghQX8ZXg8HKFcjYO3qHoO8zTmRm6HQUJ8SSJ+KRvbMBZn0EGVlT4DRYeQ/6hjlyXBh+Kg==
   dependencies:
     regenerator-runtime "^0.14.0"
 
@@ -1190,17 +1190,17 @@
   integrity sha512-VsXAqYGfdXTEu0McbzSK6b8j84i2UmMqWUgwXRW16Mi9b5ydQvoiJuG/HGGZxPJWAd5NxOg2BdJj72XHFTwF2A==
 
 "@cloudscape-design/component-toolkit@^1.0.0-beta":
-  version "1.0.0-beta.75"
-  resolved "https://registry.yarnpkg.com/@cloudscape-design/component-toolkit/-/component-toolkit-1.0.0-beta.75.tgz#33e85ba1fb846d55140b2ac29b84880ca4869228"
-  integrity sha512-W9RNu6RRzFLl7r6uAqNGw+vdWhMEAEvy+Db7SW+4OsbjZ2sp5fu9m3aFUBfi3kryju+C8F3Dxum3aDLfgI001Q==
+  version "1.0.0-beta.76"
+  resolved "https://registry.yarnpkg.com/@cloudscape-design/component-toolkit/-/component-toolkit-1.0.0-beta.76.tgz#ca1eb8c3260e7e75a5a19c637a83950b1976a62d"
+  integrity sha512-QQbeYdfsDGf99j4lqHlsCa2WaJxQ20oQe08CE1DZvGiry01vCrTO6tD89edbidRq8gscs+mCVZoX2CpCmMqZ2A==
   dependencies:
     "@juggle/resize-observer" "^3.3.1"
     tslib "^2.3.1"
 
 "@cloudscape-design/components@^3.0.82":
-  version "3.0.793"
-  resolved "https://registry.yarnpkg.com/@cloudscape-design/components/-/components-3.0.793.tgz#23144ff869e9b7dfbc92417c20263763e3c2216c"
-  integrity sha512-6kwABcXsutjF/vEc62RRCesNi4qxkgXRjEOI4sDcVbk8aIi7N4GLBu/QucCqm+TOyBHzxQRgfyd5n2SqX1dv+g==
+  version "3.0.805"
+  resolved "https://registry.yarnpkg.com/@cloudscape-design/components/-/components-3.0.805.tgz#b7acf0321fbe53a79c79744e482bb1da5739aec5"
+  integrity sha512-m2WiNIXtBAW0IBP7DMnhEXHpkQEK2tBjN8D1VpWs0NMl9GvJ+8UTS1nriK7cDlWy3os0q2+ioCP18ddmMqHmUg==
   dependencies:
     "@cloudscape-design/collection-hooks" "^1.0.0"
     "@cloudscape-design/component-toolkit" "^1.0.0-beta"
@@ -1500,10 +1500,10 @@
     "@formatjs/icu-skeleton-parser" "1.3.6"
     tslib "^2.1.0"
 
-"@formatjs/icu-messageformat-parser@2.7.10":
-  version "2.7.10"
-  resolved "https://registry.yarnpkg.com/@formatjs/icu-messageformat-parser/-/icu-messageformat-parser-2.7.10.tgz#d2e7b73121d950a19710b7bc3659188eafc43786"
-  integrity sha512-wlQfqCZ7PURkUNL2+8VTEFavPovtADU/isSKLFvDbdFmV7QPZIYqFMkhklaDYgMyLSBJa/h2MVQ2aFvoEJhxgg==
+"@formatjs/icu-messageformat-parser@2.8.0":
+  version "2.8.0"
+  resolved "https://registry.yarnpkg.com/@formatjs/icu-messageformat-parser/-/icu-messageformat-parser-2.8.0.tgz#dccbc591720b9acc01bdf064fae655dd1f1470ac"
+  integrity sha512-r2un3fmF9oJv3mOkH+wwQZ037VpqmdfahbcCZ9Lh+p6Sx+sNsonI7Zcr6jNMm1s+Si7ejQORS4Ezlh05mMPAXA==
   dependencies:
     "@formatjs/ecma402-abstract" "2.2.0"
     "@formatjs/icu-skeleton-parser" "1.8.4"
@@ -3244,10 +3244,15 @@ accepts@~1.3.4, accepts@~1.3.5, accepts@~1.3.8:
     mime-types "~2.1.34"
     negotiator "0.6.3"
 
-ace-builds@^1.12.3, ace-builds@^1.34.0:
+ace-builds@^1.12.3:
   version "1.36.2"
   resolved "https://registry.yarnpkg.com/ace-builds/-/ace-builds-1.36.2.tgz#9499bd59e839a335ac4850e74549ca8d849dc554"
   integrity sha512-eqqfbGwx/GKjM/EnFu4QtQ+d2NNBu84MGgxoG8R5iyFpcVeQ4p9YlTL+ZzdEJqhdkASqoqOxCSNNGyB6lvMm+A==
+
+ace-builds@^1.34.0:
+  version "1.36.3"
+  resolved "https://registry.yarnpkg.com/ace-builds/-/ace-builds-1.36.3.tgz#b6d172e89597a3be769045d0432e2d09a9f59000"
+  integrity sha512-YcdwV2IIaJSfjkWAR1NEYN5IxBiXefTgwXsJ//UlaFrjXDX5hQpvPFvEePHz2ZBUfvO54RjHeRUQGX8MS5HaMQ==
 
 acorn-globals@^6.0.0:
   version "6.0.0"
@@ -6548,13 +6553,13 @@ intl-messageformat@9.13.0:
     tslib "^2.1.0"
 
 intl-messageformat@^10.3.1:
-  version "10.7.0"
-  resolved "https://registry.yarnpkg.com/intl-messageformat/-/intl-messageformat-10.7.0.tgz#66f3400e10bb423407b5ff476fcc1ead3a319ea2"
-  integrity sha512-2P06M9jFTqJnEQzE072VGPjbAx6ZG1YysgopAwc8ui0ajSjtwX1MeQ6bXFXIzKcNENJTizKkcJIcZ0zlpl1zSg==
+  version "10.7.1"
+  resolved "https://registry.yarnpkg.com/intl-messageformat/-/intl-messageformat-10.7.1.tgz#dcfc52c4523a082993fa1655a9b03fc1e2fbeef9"
+  integrity sha512-xQuJW2WcyzNJZWUu5xTVPOmNSA1Sowuu/NKFdUid5Fxx/Yl6/s4DefTU/y7zy+irZLDmFGmTLtnM8FqpN05wlA==
   dependencies:
     "@formatjs/ecma402-abstract" "2.2.0"
     "@formatjs/fast-memoize" "2.2.1"
-    "@formatjs/icu-messageformat-parser" "2.7.10"
+    "@formatjs/icu-messageformat-parser" "2.8.0"
     tslib "^2.7.0"
 
 ipaddr.js@1.9.1:
