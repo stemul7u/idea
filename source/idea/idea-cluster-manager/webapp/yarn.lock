@@ -1228,14 +1228,14 @@
   integrity sha512-dKr6b/9NCB575wF6mr+alABp2AGhRMPJ9a43gsvpmSr4L92xvog3G6lomf8NmaQjAZjwpT2pmnavkMW32BPJfg==
 
 "@cloudscape-design/global-styles@^1.0.1":
-  version "1.0.32"
-  resolved "https://registry.yarnpkg.com/@cloudscape-design/global-styles/-/global-styles-1.0.32.tgz#7ae14287f7ea6e6ebf2cdc558d4228ebd1fc5193"
-  integrity sha512-3X7YEnzB7U0HeWS2iGIXWgdUAfloWVm+skzJlFkj0MNGIZ7jpI5rH9u9jLFsS021a4WrpK12FM+cwgLjzAq03A==
+  version "1.0.67"
+  resolved "https://registry.yarnpkg.com/@cloudscape-design/global-styles/-/global-styles-1.0.67.tgz#e4129929d83aa1571010e68a9b6a745982b236b0"
+  integrity sha512-W3rYWDc9dgo/nOrmaxWb9oSFeECeFuYDUwgkhPd4NbrzP1aqNnlQsUiA3s1L2VQQm82tsuDsAyYh/lqQWEDRpw==
 
 "@cloudscape-design/test-utils-core@^1.0.0":
-  version "1.0.44"
-  resolved "https://registry.yarnpkg.com/@cloudscape-design/test-utils-core/-/test-utils-core-1.0.44.tgz#2bd109fba2f52b910c0d24a0f45a7bf20f29a1ec"
-  integrity sha512-2nGG763Nsbac03ct4KfqH+ec/0UVrs/sjILQTInAPg9em3E9W1IPbF4nV0MBKUd1irgxwKmmbBiZNFfTFjpiqA==
+  version "1.0.89"
+  resolved "https://registry.yarnpkg.com/@cloudscape-design/test-utils-core/-/test-utils-core-1.0.89.tgz#6e5755cb75596dac0175b814a49fd5fbe251b1b5"
+  integrity sha512-193V8iFCHFTNozSWZZcwyPOcC/FX0MeY/Yy3oBgxw1JJvOgaVmQjD1KnIBcqWLwEuB3mkWeilHAUKpKsrKjgCw==
   dependencies:
     css-selector-tokenizer "^0.8.0"
     css.escape "^1.5.1"
