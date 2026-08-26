@@ -42,7 +42,7 @@
     "rehype-raw": "^7.0.0",
     "remark-gfm": "^4.0.0",
     "semver": "^7.5.4",
-    "uuid": "^9.0.0",
+    "uuid": "^11.0.0",
     "xterm-addon-fit": "^0.8.0",
     "xterm-for-react": "^1.0.4"
   },
