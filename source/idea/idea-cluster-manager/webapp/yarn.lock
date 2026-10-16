@@ -3245,9 +3245,9 @@ accepts@~1.3.4, accepts@~1.3.5, accepts@~1.3.8:
     negotiator "0.6.3"
 
 ace-builds@^1.12.3, ace-builds@^1.34.0:
-  version "1.36.2"
-  resolved "https://registry.yarnpkg.com/ace-builds/-/ace-builds-1.36.2.tgz#9499bd59e839a335ac4850e74549ca8d849dc554"
-  integrity sha512-eqqfbGwx/GKjM/EnFu4QtQ+d2NNBu84MGgxoG8R5iyFpcVeQ4p9YlTL+ZzdEJqhdkASqoqOxCSNNGyB6lvMm+A==
+  version "1.45.0"
+  resolved "https://registry.yarnpkg.com/ace-builds/-/ace-builds-1.45.0.tgz#bb0c318c60524da854cee3824c7ac92b24d4ee12"
+  integrity sha512-tAAorvbQRlsdDeuf4RnBLgaRk4HVT9td2D4QKEqXyuQkZmFoqHxl9JuV2o1XkuDT+zOreooGPiG1tU/Y+pNFkg==
 
 acorn-globals@^6.0.0:
   version "6.0.0"
